@@ -1,0 +1,2 @@
+Esta es un archivo B de prueba para migrar un Repo local a remoto.
+Versión 1.
